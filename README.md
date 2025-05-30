@@ -3,13 +3,13 @@
 EndlessRunner is a fast-paced endless runner game made in Unity, where you control a character dodging obstacles by moving left, right, or jumping. 
 Your goal is simple: stay alive as long as you can without hitting any obstacles!
 
-## Controls
+## 🎮 Controls
 
 - `A` — Move Left  
 - `D` — Move Right  
 - `W` or `Space` — Jump
 
-## Gameplay
+## 🎮 Gameplay
 
 - Navigate through an endless path filled with randomly generated obstacles.
 - Time your jumps carefully to avoid crashing into:
@@ -18,7 +18,7 @@ Your goal is simple: stay alive as long as you can without hitting any obstacles
   -  Small Rocks
 - The game gets progressively faster and more challenging the longer you survive.
 
-## Built With
+## 🔧 Built With
 
 - **Unity** (C#)
 
