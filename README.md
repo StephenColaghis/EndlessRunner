@@ -25,6 +25,7 @@ Your goal is simple: stay alive as long as you can without hitting any obstacles
 
 ## 📸 Screenshots
 
-![Καταγραφή](https://github.com/user-attachments/assets/08570ef4-8ec9-48ee-827f-1a38e7bdcbdf)
-![Καταγραφή2](https://github.com/user-attachments/assets/d34770bd-7a8a-400b-ada8-4730aff32efb)
-![Καταγραφή3](https://github.com/user-attachments/assets/be759510-6c82-4d9d-94f0-42ac9c133106)
+
+![Καταγραφή](https://github.com/user-attachments/assets/f15b6437-2b28-4b1b-a8e1-973f0e838ad4)
+![Καταγραφή2](https://github.com/user-attachments/assets/29605532-1ad5-430c-89ea-154bb08678d0)
+![Καταγραφή3](https://github.com/user-attachments/assets/5795a57a-82dd-4463-82c9-5700110e8582)
